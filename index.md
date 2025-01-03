@@ -1,6 +1,6 @@
 ---
-title: Home
-layout: home
+title: Add your addons
+layout: minimal
 ---
 
 # Add your addons to a community 
