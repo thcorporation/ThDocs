@@ -7,12 +7,13 @@ layout: minimal
 ED Addons is the best skinbase for Kodi and
 this Document will help you how to do it.
 
-> **Note** This document is only for Developers
+> **Note**: This document is only for Developers
 > Please be aware of that.
 # Get your addon to ED Addons
 Getting your skin to EminenceDownload is very easy!
 just pick a category on the bar
-***
+---
+
 `-` Skins (Most Popular)
 `-` GUI Sounds
 `-` Videos
