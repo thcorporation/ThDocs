@@ -28,4 +28,4 @@ Once you made your addon
 # Test it!
 Testing your addon is easy just open Kodi and download the zip
 # Submit it!
-Since your done then **Congratulations!** your addon is now ready for the Submitting part to sent your addon then sent it to thcorporation8@yahoo.com 
+Since your done then **Congratulations!** your addon is now ready for the Submitting part to sent your addon then so just sent it to thcorporation8@yahoo.com 
