@@ -7,7 +7,6 @@ layout: minimal
 ED Addons is the best skinbase for Kodi and
 this Document will help you how to do it.
 
-{: .important }
 > {: .warning }
 > If you're making a addon that resets Kodi,
 > please test it on a empty Kodi Setup
