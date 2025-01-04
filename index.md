@@ -7,10 +7,9 @@ layout: minimal
 ED Addons is the best skinbase for Kodi and
 this Document will help you how to do it.
 
-{: .important-title }
-> IMPORTANT
-> If you have an addon that resets your Kodi Setup
-> please test it on a empty setup such as http://onworks.net
+{: .warning } 
+If you have an addon that resets your Kodi Setup
+please test it on a empty setup such as http://onworks.net
 
 # Get your addon to ED Addons
 Getting your skin to EminenceDownload is very easy!
