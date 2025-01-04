@@ -2,7 +2,6 @@
 title: Add your addons
 layout: minimal
 nav-order: 1
-permalink: main
 ---
 
 # Add your addons to a community 
