@@ -1,6 +1,8 @@
 ---
 title: Add your addons
 layout: minimal
+nav-order: 1
+permalink: devtab:unit0911
 ---
 
 # Add your addons to a community 
